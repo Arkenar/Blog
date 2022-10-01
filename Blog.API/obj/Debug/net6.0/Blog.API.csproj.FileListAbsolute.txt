@@ -56,3 +56,16 @@
 /home/arkenar/ubk/Blog/Blog.API/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
 /home/arkenar/ubk/Blog/Blog.API/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
 /home/arkenar/ubk/Blog/Blog.API/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/arkenar/ubk/Blog/Blog.API/bin/Debug/net6.0/PhoneNumbers.dll
+/home/arkenar/ubk/Blog/Blog.API/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/arkenar/ubk/Blog/Blog.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/home/arkenar/ubk/Blog/Blog.API/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/home/arkenar/ubk/Blog/Blog.API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/arkenar/ubk/Blog/Blog.API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/arkenar/ubk/Blog/Blog.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/arkenar/ubk/Blog/Blog.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/arkenar/ubk/Blog/Blog.API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/arkenar/ubk/Blog/Blog.API/bin/Debug/net6.0/Scrutor.dll
+/home/arkenar/ubk/Blog/Blog.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Filters.dll
+/home/arkenar/ubk/Blog/Blog.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Filters.Abstractions.dll
+/home/arkenar/ubk/Blog/Blog.API/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll

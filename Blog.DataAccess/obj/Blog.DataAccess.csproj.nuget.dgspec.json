@@ -58,9 +58,17 @@
               "target": "Package",
               "version": "[6.0.9, )"
             },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.23.1, )"
+            },
             "Z.EntityFramework.Plus.EFCore": {
               "target": "Package",
               "version": "[6.15.1, )"
+            },
+            "libphonenumber-csharp": {
+              "target": "Package",
+              "version": "[8.12.56, )"
             }
           },
           "imports": [

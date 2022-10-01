@@ -8,7 +8,7 @@ namespace Blog.DataAccess.Entities;
 public sealed class User : BaseEntity<Guid> 
 {
     [MaxLength(200)]
-    public string ImageURI { get; set; } = null!;
+    public string? ImageURI { get; set; }
 
     [Required]
     [MaxLength(50)]
@@ -22,17 +22,22 @@ public sealed class User : BaseEntity<Guid>
     public Gender Gender { get; set; }
 
     [Required]
-    public Int16 Age { get; set; }
+    public Int16 Age { get; set; } = default!;
 
+    [Required]
     [EmailAddress]
     [MaxLength(200)]
     public string Email { get; set; } = null!;
 
     [MaxLength(350)]
-    public string Description { get; set; } = null!;
+    public string? Description { get; set; }
+
+    [MaxLength(6)]
+    public string? CountryCode{ get; set; }
 
     [Phone]
-    public Int16 Phone { get; set; }
+    [MaxLength(50)]
+    public string? Phone { get; set; }
     
     [ForeignKey("ArticleId")]
     public List<Article> Articles { get; set; } = new();

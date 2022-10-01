@@ -78,8 +78,11 @@ namespace Blog.API.Migrations
                     b.Property<short>("Age")
                         .HasColumnType("smallint");
 
+                    b.Property<string>("CountryCode")
+                        .HasMaxLength(6)
+                        .HasColumnType("character varying(6)");
+
                     b.Property<string>("Description")
-                        .IsRequired()
                         .HasMaxLength(350)
                         .HasColumnType("character varying(350)");
 
@@ -97,7 +100,6 @@ namespace Blog.API.Migrations
                         .HasColumnType("integer");
 
                     b.Property<string>("ImageURI")
-                        .IsRequired()
                         .HasMaxLength(200)
                         .HasColumnType("character varying(200)");
 
@@ -114,8 +116,9 @@ namespace Blog.API.Migrations
                         .IsRequired()
                         .HasColumnType("bytea");
 
-                    b.Property<short>("Phone")
-                        .HasColumnType("smallint");
+                    b.Property<string>("Phone")
+                        .HasMaxLength(50)
+                        .HasColumnType("character varying(50)");
 
                     b.HasKey("Id");
 
