@@ -1,0 +1,12 @@
+/home/arkenar/ubk/Blog/Blog.DataAccess/bin/Debug/net6.0/Blog.DataAccess.deps.json
+/home/arkenar/ubk/Blog/Blog.DataAccess/bin/Debug/net6.0/Blog.DataAccess.dll
+/home/arkenar/ubk/Blog/Blog.DataAccess/bin/Debug/net6.0/Blog.DataAccess.pdb
+/home/arkenar/ubk/Blog/Blog.DataAccess/obj/Debug/net6.0/Blog.DataAccess.csproj.AssemblyReference.cache
+/home/arkenar/ubk/Blog/Blog.DataAccess/obj/Debug/net6.0/Blog.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/home/arkenar/ubk/Blog/Blog.DataAccess/obj/Debug/net6.0/Blog.DataAccess.AssemblyInfoInputs.cache
+/home/arkenar/ubk/Blog/Blog.DataAccess/obj/Debug/net6.0/Blog.DataAccess.AssemblyInfo.cs
+/home/arkenar/ubk/Blog/Blog.DataAccess/obj/Debug/net6.0/Blog.DataAccess.csproj.CoreCompileInputs.cache
+/home/arkenar/ubk/Blog/Blog.DataAccess/obj/Debug/net6.0/Blog.DataAccess.dll
+/home/arkenar/ubk/Blog/Blog.DataAccess/obj/Debug/net6.0/refint/Blog.DataAccess.dll
+/home/arkenar/ubk/Blog/Blog.DataAccess/obj/Debug/net6.0/Blog.DataAccess.pdb
+/home/arkenar/ubk/Blog/Blog.DataAccess/obj/Debug/net6.0/ref/Blog.DataAccess.dll
